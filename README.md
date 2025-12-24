@@ -31,5 +31,5 @@ CampusConnect replaces scattered WhatsApp groups and manual OD systems with a se
 
 👨‍💻 Authors
 
-Aman Kumar
+Aman Kumar,
 Charvi Agarwal
